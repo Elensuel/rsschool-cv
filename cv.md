@@ -9,9 +9,9 @@ My key strength is **communication**; building strong relationships with people 
 ## Contact info:
 🏡 &nbsp; Krakow, Poland
 \
-✉️ &nbsp;<lazaruk.t@gmail.com>
+✉️ &nbsp; <lazaruk.t@gmail.com>
 \
- 🔗 &nbsp;[Linkedin](https://www.linkedin.com/in/tetiana-lazaruk-433433109)
+ 🔗 &nbsp; [Linkedin](https://www.linkedin.com/in/tetiana-lazaruk-433433109)
 ## Skills
 * JavaScript, React.js,
 * Git, HTML5, CSS3,
